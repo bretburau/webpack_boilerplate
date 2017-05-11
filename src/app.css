@@ -1,0 +1,10 @@
+body {
+	background-color: orange;
+	
+}
+
+.holder {
+	background: url("img/css3.svg") center center no-repeat;
+	display: flex;
+}
+
